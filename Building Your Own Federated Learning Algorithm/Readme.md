@@ -1,4 +1,4 @@
-**Algorithm**
+## **Algorithm**
 
 1. Dataset
   *  Input dataset
